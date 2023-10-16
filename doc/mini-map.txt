@@ -342,6 +342,8 @@ integration count column. Default: 10.
 completely non-transparent, 100 - completely transparent (content is still
 visible, but with slightly different highlights).
 
+`window.zindex` - value of 'zindex' for map window. Default: 10.
+
 # Pure scrollbar config ~
 
 "Pure scrollbar" is a configuration when window width is not enough to show
